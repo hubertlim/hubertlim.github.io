@@ -18,17 +18,10 @@ Experienced and detail-oriented DevOps Engineer with a strong focus on **Microso
 - 🎮 Unity Developer : Forever Entertainment S.A.
 - 🌐 .Net Developer : 4EVOLVE Systems
 
-### 🏁 **Career Timeline:**
+### 🏁 **Time of Career Experience:**
 
-```mermaid
-gantt
-    title Hubert Krauze Career Path
-    dateFormat  YYYY-MM-DD
-
-section Career Milestones
-    .Net Developer                          :done, 2019-03-31, 2022-04-01
-    Unity Developer                         :done, 2022-02-01, 2022-09-01
-    DevOps Engineer                         :done, 2021-03-01, 2024-10-13
-    DevOps Technical Consultant             :active, 2023-07-01, 2024-11-18
-```
-**If the diagram is not fully visible, then I recommend switching to light mode.*
+- 📖 DevOps Technical Consultant : 2 years of experience (2023-2025)
+- ⚙️ DevOps Engineer : +4 years of experience (2021-2024)
+- 💻 L3 Customer Support : +1 year of experience (2021)
+- 🎮 Unity Developer : 1 year of experience (2020)
+- 🌐 .Net Developer : +3 years of experience (2019-2022)
