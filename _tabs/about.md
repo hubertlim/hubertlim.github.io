@@ -61,3 +61,31 @@ Security tools
 
 Collaboration and Communication
 : Agile, Scrum, Kibana Dashboards
+
+---
+
+### 🎯 **Certifications**
+
+```json
+{
+  "AWS": "AWS Certified Cloud Practitioner Certification CLF-C01",
+  "Fenergo": {
+    "Fenergo Certified Professional": "Configurator",
+    "Fenergo Certified Professional": "Integrator",
+    "Fenergo Enterprise Certified": "Associate"
+  },
+  "Scrum.org": "Professional Scrum Master PSM-1",
+  "Gdynia Maritime University": {
+    "ZZP": "Databases",
+    "ZZP": "CMS - WordPress"
+  },
+  "Gdańsk University of Technology": "Java and Android"
+}
+```
+
+---
+
+
+## 🔐 **Contact Information**
+
+- **💼 LinkedIn**: [linkedin.com/in/hubert-krauze](https://www.linkedin.com/in/hubert-krauze-528910177/)
