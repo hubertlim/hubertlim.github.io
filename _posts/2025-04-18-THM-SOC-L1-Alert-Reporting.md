@@ -21,6 +21,8 @@ image:
 ```text
 Alert Escalation
 ```
+{: .nolineno }
+{: file="Answer:" }
 
 > `Alert Escalation`: If the True Positive alert requires additional actions or deeper investigation, escalate it to the L2 analyst for further review following the agreed procedures.
 {: .prompt-tip }
@@ -29,6 +31,8 @@ Alert Escalation
 ```text
 Alert Reporting
 ```
+{: .nolineno }
+{: file="Answer:" }
 
 > `Alert Reporting`: Before closing or passing the alert to L2, you might have to report it. Depending on team standards and alert severity, instead of a short alert comment, you can be required to document your investigation in detail, ensuring all relevant evidence is included.
 {: .prompt-tip }
@@ -41,6 +45,8 @@ Alert Reporting
 ```text
 m.boslan@tryhackme.thm
 ```
+{: .nolineno }
+{: file="Answer:" }
 
 > Check the details of the alert "Sensitive Document Share to External" in the SOC dashboard.
 {: .prompt-tip }
@@ -49,6 +55,8 @@ m.boslan@tryhackme.thm
 ```text
 support@microsoft.com
 ```
+{: .nolineno }
+{: file="Answer:" }
 
 > Check the details of the alert "Email Marked as Phishing after Delivery" in the SOC dashboard.
 {: .prompt-tip }
@@ -57,6 +65,8 @@ support@microsoft.com
 ```text
 THM{nice_attempt_faking_microsoft_support}
 ```
+{: .nolineno }
+{: file="Answer:" }
 
 > Check the details of the alert "Email Marked as Phishing after Delivery" in the SOC dashboard, and fill the report.
 {: .prompt-tip }
@@ -69,6 +79,8 @@ THM{nice_attempt_faking_microsoft_support}
 ```text
 E.Fleming
 ```
+{: .nolineno }
+{: file="Answer:" }
 
 > Check the "Assignee" column in the SOC dashboard.
 {: .prompt-tip }
@@ -77,6 +89,8 @@ E.Fleming
 ```text
 THM{good_job_escalating_your_first_alert}
 ```
+{: .nolineno }
+{: file="Answer:" }
 
 > Change the "Assignee" column value to E.Fleming and keep the alert "in progress".
 {: .prompt-tip }
@@ -85,6 +99,8 @@ THM{good_job_escalating_your_first_alert}
 ```text
 THM{looks_like_webshell_via_old_exchange}
 ```
+{: .nolineno }
+{: file="Answer:" }
 
 > Write the report for the alert "Spike of Domain Discovery Commands". Remember about the 5W.
 {: .prompt-tip }
@@ -97,6 +113,8 @@ THM{looks_like_webshell_via_old_exchange}
 ```text
 Nay
 ```
+{: .nolineno }
+{: file="Answer:" }
 
 > At first contact L2.
 {: .prompt-tip }
@@ -105,6 +123,8 @@ Nay
 ```text
 Yea
 ```
+{: .nolineno }
+{: file="Answer:" }
 
 > Prioritise the alerts according to the workflow, but inform your L2 on shift about the situation.
 {: .prompt-tip }

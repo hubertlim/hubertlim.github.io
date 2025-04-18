@@ -21,6 +21,8 @@ image:
 ```text
 Security Operations Center
 ```
+{: .nolineno }
+{: file="Answer:" }
 
 > "A `Security Operations Center` (SOC) is a centralized security unit with team(s) responsible for protecting the organization against security threats."
 {: .prompt-tip }
@@ -29,6 +31,8 @@ Security Operations Center
 ```text
 SOC Level 2 Analyst
 ```
+{: .nolineno }
+{: file="Answer:" }
 
 > Incident response is a responsibilitie of `SOC Level 2 Analyst` based on the table in Task 1. 
 {: .prompt-tip }
@@ -37,6 +41,8 @@ SOC Level 2 Analyst
 ```text
 triage
 ```
+{: .nolineno }
+{: file="Answer:" }
 
 > Monitoring and `triage` are responsibilities of SOC Level 1 Analyst based on the table in Task 1. 
 {: .prompt-tip }
@@ -48,6 +54,8 @@ triage
 ```text
 SOAR
 ```
+{: .nolineno }
+{: file="Answer:" }
 
 > Microsoft Sentinel is a scalable, cloud-native solution that provides the functionality of Security Information and Event Management (SIEM) and Security Orchestration, Automation, and Response (`SOAR`).
 {: .prompt-tip }
@@ -56,6 +64,8 @@ SOAR
 ```text
 SIEM
 ```
+{: .nolineno }
+{: file="Answer:" }
 
 > `SIEM` functionalities are 
 - Collecting and querying logs, 
@@ -67,6 +77,8 @@ SIEM
 ```text
 4
 ```
+{: .nolineno }
+{: file="Answer:" }
 
 > Microsoft Sentinel performs the above actions and enables security operations by means of 4 main pillars:
 - Collect
@@ -82,6 +94,8 @@ SIEM
 ```text
 data connectors
 ```
+{: .nolineno }
+{: file="Answer:" }
 
 > The first step is to ingest data into Microsoft Sentinel. This is exactly what `data connectors` are for.
 {: .prompt-tip }
@@ -91,6 +105,8 @@ data connectors
 ```text
 log analytics workspaces
 ```
+{: .nolineno }
+{: file="Answer:" }
 
 > Once the data has been ingested into Microsoft Sentinel, it must be stored for further correlation and analysis. This log storage mechanism is called `Log Analytics workspaces`.
 {: .prompt-tip }
@@ -99,6 +115,8 @@ log analytics workspaces
 ```text
 dashboards
 ```
+{: .nolineno }
+{: file="Answer:" }
 
 > Workbooks are essentially `dashboards` in Microsoft Sentinel used to visualize data.
 {: .prompt-tip }
@@ -107,6 +125,8 @@ dashboards
 ```text
 alert fatigue
 ```
+{: .nolineno }
+{: file="Answer:" }
 
 > `Alert fatigue` occurs occurs when cyber security professionals are inundated with a high volume of security alerts, which leads to a diminished ability for SOC teams to react effectively to and investigate real threats.
 {: .prompt-tip }
@@ -115,6 +135,8 @@ alert fatigue
 ```text
 playbooks
 ```
+{: .nolineno }
+{: file="Answer:" }
 
 > To overcome alert fatigue, automation in security operations is a must. This is done by automated workflows, also known as `playbooks`, in response to events.
 {: .prompt-tip }
@@ -123,6 +145,8 @@ playbooks
 ```text
 Incidents
 ```
+{: .nolineno }
+{: file="Answer:" }
 
 > The output of running Analytics rules are security alerts and `incidents`.
 {: .prompt-tip }
@@ -135,6 +159,8 @@ Incidents
 ```text
 monitor
 ```
+{: .nolineno }
+{: file="Answer:" }
 
 > Organizations use Microsoft Sentinel when there is a necessity to `monitor` cloud and on-premises infrastructures for security.
 {: .prompt-tip }
@@ -143,6 +169,8 @@ monitor
 ```text
 cloud-native
 ```
+{: .nolineno }
+{: file="Answer:" }
 
 > `Cloud-native` SIEM - No need for server provisioning, facilitating seamless scalability
 {: .prompt-tip }
