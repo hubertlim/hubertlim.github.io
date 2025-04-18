@@ -15,7 +15,7 @@ image:
 > Link to the room: <https://tryhackme.com/room/socl1alertreporting>.
 {: .prompt-info }
 
-## [Task 1] Alert Funnel
+## [Task 2] Alert Funnel
 
 #### What is the process of passing suspicious alerts to an L2 analyst for review?
 ```text
@@ -39,7 +39,7 @@ Alert Reporting
 
 ---
 
-## [Task 2] Reporting Guide
+## [Task 3] Reporting Guide
 
 #### According to the SOC dashboard, which user email leaked the sensitive document?
 ```text
@@ -73,7 +73,7 @@ THM{nice_attempt_faking_microsoft_support}
 
 ---
 
-## [Task 3] Escalation Guide
+## [Task 4] Escalation Guide
 
 #### Who is your current L2 in the SOC dashboard that you can assign (escalate) the alerts to?
 ```text
@@ -107,7 +107,7 @@ THM{looks_like_webshell_via_old_exchange}
 
 ---
 
-## [Task 4] SOC Communication
+## [Task 5] SOC Communication
 
 #### Should you first try to contact your manager in case of a critical threat (Yea/Nay)?
 ```text
