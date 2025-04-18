@@ -63,7 +63,7 @@ SIEM
 - Creating alerts and incidents based on findings
 {: .prompt-tip }
 
-### By means of how many pillars does Microsoft Sentinel help us to perform security operations?
+#### By means of how many pillars does Microsoft Sentinel help us to perform security operations?
 ```text
 4
 ```
