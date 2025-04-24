@@ -144,7 +144,7 @@ brute_force()
 
 ## [Task 4] Developing a Vulnerability Scanner
 
-#### How many vulnerabilities will be identified if we use the above scanner.py script with the updated URL <http://python.thm/labs/lab2/departments.php?name=?> (without changing the original code)
+#### How many vulnerabilities will be identified if we use the above scanner.py script with the updated URL `http://python.thm/labs/lab2/departments.php?name=?` (without changing the original code)
 ```text
 0
 ```
