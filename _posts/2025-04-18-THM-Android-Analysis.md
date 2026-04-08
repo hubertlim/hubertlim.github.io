@@ -3,11 +3,9 @@ title: "[THM] Android Analysis"
 description: This is a full walkthrough with answers and explanations for the TryHackMe room "Android Analysis".
 author: hubert_k
 date: 2025-05-21 16:00:00 +0800
-categories: [THM]
-tags: [Security, THM, Walkthrough]
-pin: true
-math: true
-mermaid: true
+categories: [THM, Mobile]
+tags: [TryHackMe, Walkthrough, Android, Mobile-Security]
+pin: false
 image:
     path: https://tryhackme-images.s3.amazonaws.com/room-icons/5e8dd9a4a45e18443162feab-1745489133886
 ---

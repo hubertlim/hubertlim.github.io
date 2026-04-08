@@ -3,11 +3,9 @@ title: "[THM] SOC Workbooks and Lookups"
 description: This is a full walkthrough with answers and explanations for the TryHackMe room "SOC Workbooks and Lookups".
 author: hubert_k
 date: 2025-05-02 16:00:00 +0800
-categories: [THM]
-tags: [Security, THM, Walkthrough]
-pin: true
-math: true
-mermaid: true
+categories: [THM, SIEM]
+tags: [TryHackMe, Walkthrough, Workbooks, SIEM]
+pin: false
 image:
     path: https://tryhackme-images.s3.amazonaws.com/room-icons/678ecc92c80aa206339f0f23-1743518808955
 ---

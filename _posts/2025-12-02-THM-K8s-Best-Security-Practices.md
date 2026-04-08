@@ -3,11 +3,9 @@ title: "[THM] K8s Best Security Practices"
 description: This is a full walkthrough with answers and explanations for the TryHackMe room "K8s Best Security Practices".
 author: hubert_k
 date: 2025-12-02 06:00:00 +0800
-categories: [THM]
-tags: [Security, THM, Walkthrough]
+categories: [THM, Kubernetes]
+tags: [TryHackMe, Walkthrough, Kubernetes, DevSecOps]
 pin: true
-math: true
-mermaid: true
 image:
     path: https://tryhackme-images.s3.amazonaws.com/room-icons/6228f0d4ca8e57005149c3e3-1718621162033
 ---

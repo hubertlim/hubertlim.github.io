@@ -3,11 +3,9 @@ title: "[THM Walkthrough] MS Sentinel: Introduction"
 description: This is a full walkthrough with answers and explanations for the TryHackMe room "MS Sentinel Introduction".
 author: hubert_k
 date: 2025-04-18 15:20:00 +0800
-categories: [THM]
-tags: [Security, THM, Walkthrough]
-pin: true
-math: true
-mermaid: true
+categories: [THM, SIEM]
+tags: [TryHackMe, Walkthrough, Microsoft-Sentinel, SIEM]
+pin: false
 image:
     path: https://tryhackme-images.s3.amazonaws.com/room-icons/5efbaebdaaea011c857b438d-1718634714294
 ---

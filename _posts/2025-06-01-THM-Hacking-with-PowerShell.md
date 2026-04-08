@@ -3,11 +3,9 @@ title: "[THM] Hacking with PowerShell"
 description: This is a full walkthrough with answers and explanations for the TryHackMe room "Hacking with PowerShell".
 author: hubert_k
 date: 2025-06-05 16:00:00 +0800
-categories: [THM]
-tags: [Security, THM, Walkthrough]
+categories: [THM, Windows]
+tags: [TryHackMe, Walkthrough, PowerShell, Windows]
 pin: true
-math: true
-mermaid: true
 image:
     path: https://tryhackme-images.s3.amazonaws.com/room-icons/ca3da5aa8e312b0316f06a25a03028a5.png
 ---

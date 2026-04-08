@@ -3,11 +3,9 @@ title: "[THM] Custom Tooling Using Python"
 description: This is a full walkthrough with answers and explanations for the TryHackMe room "Custom Tooling Using Python".
 author: hubert_k
 date: 2025-04-24 15:00:00 +0800
-categories: [THM]
-tags: [Security, THM, Walkthrough]
-pin: true
-math: true
-mermaid: true
+categories: [THM, Automation]
+tags: [TryHackMe, Walkthrough, Python, Automation]
+pin: false
 image:
     path: https://tryhackme-images.s3.amazonaws.com/room-icons/62a7685ca6e7ce005d3f3afe-1743656880330
 ---

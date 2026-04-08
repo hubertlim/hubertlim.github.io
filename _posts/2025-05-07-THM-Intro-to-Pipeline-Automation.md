@@ -3,11 +3,9 @@ title: "[THM] Intro to Pipeline Automation"
 description: This is a full walkthrough with answers and explanations for the TryHackMe room "Intro to Pipeline Automation".
 author: hubert_k
 date: 2025-05-07 19:00:00 +0800
-categories: [THM]
-tags: [Security, THM, Walkthrough]
-pin: true
-math: true
-mermaid: true
+categories: [THM, DevOps]
+tags: [TryHackMe, Walkthrough, CI-CD, Automation]
+pin: false
 image:
     path: https://tryhackme-images.s3.amazonaws.com/room-icons/66704dd0e54a1f39bff7b1a1-1735574672403
 ---

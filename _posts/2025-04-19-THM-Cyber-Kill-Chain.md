@@ -3,11 +3,9 @@ title: "[THM Walkthrough] Cyber Kill Chain "
 description: This is a full walkthrough with answers and explanations for the TryHackMe room "Cyber Kill Chain".
 author: hubert_k
 date: 2025-04-19 11:00:00 +0800
-categories: [THM]
-tags: [Security, THM, Walkthrough]
-pin: true
-math: true
-mermaid: true
+categories: [THM, Security-Fundamentals]
+tags: [TryHackMe, Walkthrough, Kill-Chain, Security-Fundamentals]
+pin: false
 image:
     path: https://tryhackme-images.s3.amazonaws.com/room-icons/66704dd0e54a1f39bff7b1a1-1735573085552
 ---

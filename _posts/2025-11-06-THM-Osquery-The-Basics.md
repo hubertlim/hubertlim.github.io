@@ -3,11 +3,9 @@ title: "[THM] Osquery: The Basics"
 description: This is a full walkthrough with answers and explanations for the TryHackMe room "Osquery The Basics".
 author: hubert_k
 date: 2025-11-06 13:00:00 +0800
-categories: [THM]
-tags: [Security, THM, Walkthrough]
+categories: [THM, Threat-Hunting]
+tags: [TryHackMe, Walkthrough, Osquery, Threat-Hunting]
 pin: true
-math: true
-mermaid: true
 image:
     path: https://tryhackme-images.s3.amazonaws.com/room-icons/2d1116d536a64d634647d6efa1f2acf0.png
 ---

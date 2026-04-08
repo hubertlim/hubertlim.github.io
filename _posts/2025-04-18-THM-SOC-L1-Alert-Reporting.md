@@ -3,11 +3,9 @@ title: "[THM Walkthrough] SOC L1 Alert Reporting"
 description: This is a full walkthrough with answers and explanations for the TryHackMe room "SOC L1 Alert Reporting".
 author: hubert_k
 date: 2025-04-18 16:00:00 +0800
-categories: [THM]
-tags: [Security, THM, Walkthrough]
-pin: true
-math: true
-mermaid: true
+categories: [THM, SIEM]
+tags: [TryHackMe, Walkthrough, SOC, Alerting]
+pin: false
 image:
     path: https://tryhackme-images.s3.amazonaws.com/room-icons/678ecc92c80aa206339f0f23-1743518414935
 ---
