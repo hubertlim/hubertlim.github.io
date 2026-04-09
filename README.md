@@ -13,6 +13,7 @@ Personal website and blog for publishing DevOps, cloud, and security notes, with
 ## Project Structure
 
 - `_posts` contains blog posts and walkthroughs
+- `_data/projects.yml` contains portfolio project metadata
 - `_tabs` contains top-level site pages
 - `_data` contains author, contact, and sharing metadata
 - `assets` contains images and theme assets

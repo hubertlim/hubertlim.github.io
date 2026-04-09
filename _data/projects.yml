@@ -1,0 +1,27 @@
+- name: GlyphFlow
+  featured: true
+  status: Live Demo
+  category: Creative Coding
+  image: /assets/img/projects/glyphflow.gif
+  live_url: https://hubertlim.github.io/GlyphFlow/
+  repo_url: https://github.com/hubertlim/GlyphFlow
+  article_url:
+  hook: Real-time kinetic typography editor that reshapes multilingual text on Canvas without DOM reflow.
+  summary: >
+    GlyphFlow is an interactive browser app that turns text into animated visual forms.
+    Instead of relying on framework-heavy UI code or DOM-based text measurement, it uses
+    Pretext and the Canvas API to recompute line widths every frame and render smooth,
+    expressive typography at interactive speed.
+  stack:
+    - Vite
+    - Vanilla JavaScript
+    - Canvas API
+    - Pretext
+    - Docker
+    - GitHub Pages
+  highlights:
+    - Pure Canvas rendering loop with animated per-line width functions.
+    - Pretext-powered layout pipeline using prepareWithSegments() and layoutNextLine().
+    - Multilingual text support, export-to-PNG, and themed visual presets.
+    - Minimal stack chosen for performance, portability, and easy static hosting.
+  article_teaser: How I built real-time kinetic typography in the browser without DOM reflow.

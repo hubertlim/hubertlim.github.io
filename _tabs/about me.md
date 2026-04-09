@@ -3,7 +3,7 @@
 title: About
 description: DevOps consultant focused on Azure, automation, CI/CD, and practical security learning.
 icon: fas fa-info-circle
-order: 4
+order: 5
 permalink: /about-me/
 ---
 
