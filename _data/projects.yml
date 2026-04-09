@@ -5,7 +5,7 @@
   image: /assets/img/projects/glyphflow.gif
   live_url: https://hubertlim.github.io/GlyphFlow/
   repo_url: https://github.com/hubertlim/GlyphFlow
-  article_url:
+  article_url: /posts/glyphflow-kinetic-typography/
   hook: Real-time kinetic typography editor that reshapes multilingual text on Canvas without DOM reflow.
   summary: >
     GlyphFlow is an interactive browser app that turns text into animated visual forms.
